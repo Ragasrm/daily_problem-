@@ -20,3 +20,4 @@ def valid_palindrome(str):
 print(valid_palindrome("level"))
 print(valid_palindrome("algorithm"))
 print(valid_palindrome("A man, a plan, a canal: Panama."))
+print(valid_palindrome("Borrow or rob?"))
